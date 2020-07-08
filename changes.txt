@@ -3,7 +3,8 @@ Bluddy's Drox Balance Mod
 ver 0.001
 - Attempt to reduce power of command build by halving crew points from most crew
 - Copy hull command reqs from drox2
-- Include drox guild quest time lengthening
+- Include drox guild quest time lengthening (much longer time for most quests)
 - Reduce number of planets per sector (2-6 instead of 2-10)
 - Increase percentage chance of propaganda/sabotage/etc working.
 - Performing a Drox guild quest should now be an automatic legend win.
+- Increase turn speed a little (0.5)

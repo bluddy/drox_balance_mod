@@ -1388,7 +1388,7 @@ GameSystem
 	ThrustMaxSpeedMult		100.0
 	MaxSpeedAccelMult		0.25
 	MaxSpeedDecelMult		0.5
-	MaxSpeedTurnMult		0.3
+	MaxSpeedTurnMult		0.5 // 0.3 bal
 	MaxSpeed			200
 	MaxTurnSpeed			1000
 

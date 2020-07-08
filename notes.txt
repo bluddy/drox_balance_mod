@@ -1,7 +1,9 @@
-- Items: make heavy = weapons + essentials
-  - medium = utilities + weak weapons. Weaker and lower requirements.
+- Items:
+  - heavy: weapons, weak weapons (lower requirements), shields, hull, fighters
+  - medium: inner utilities, power, thrust
+  - light: crew, crew equipment (uses power)
+  - Need to change npctypes.gdb to give the right things in the right slots
 - Reduce stat points from crew equipment
-- Make min planets 2 again
 
 - Can we make giant nebulas that have effects?
   - Check that purple electric field thing
@@ -14,3 +16,13 @@
   - Mine fields already exist
   - Can reduce spawn chance of random mines
   - Or make them only spawn in fields
+
+- Fighters
+  - Give summoned status effect from Din's
+  - More health, more punch
+  - MonsterStatusEffect allows for other passive skills (items) that boost monsters
+     for pet builds
+
+- Need to radically reduce effect of command
+  - Too many slots
+  - Almost always effective to pile on weapons and armor
