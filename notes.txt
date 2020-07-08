@@ -1,0 +1,12 @@
+- Turn Drox guild quests to give you legend points
+- Make other quests give you no legend?
+- Legend = drox guild quest wins
+- Items: make heavy = weapons + essentials
+  - medium = utilities + weak weapons. Weaker and lower requirements.
+- Reduce stat points from crew equipment
+- Make min planets 2 again
+
+- Can we make giant nebulas that have effects?
+  - Check that purple electric field thing
+- Can we make anomalies happen automatically?
+- Can we reduce mines, or place them in mine fields?
