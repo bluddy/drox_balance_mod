@@ -447,7 +447,7 @@ BaseSystem
 	StarSpawn	StarCyan
 	StarSpawn	StarBlue
 
-	MinPlanets	1 // bal 2
+	MinPlanets	2
 	MaxPlanets	6 // bal 10
 
 	PlanetSpawn	PlanetArcticTiny

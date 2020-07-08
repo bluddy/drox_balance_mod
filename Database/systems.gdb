@@ -263,7 +263,7 @@ GameSystem
 	SecretDiscoveryXpMult	5.0
 	PickLockXpMult		5.0
 	DisarmedTrapXpMult	5.0
-	LegendWinXpMult		100.0
+	LegendWinXpMult		100.0 // bal 100
 
 	XpDebtPerDeath		0.25
 	SoulStoneXpReduction	0.75
