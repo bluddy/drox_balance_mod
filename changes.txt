@@ -8,3 +8,4 @@ ver 0.001
 - Increase percentage chance of propaganda/sabotage/etc working.
 - Performing a Drox guild quest should now be an automatic legend win.
 - Increase turn speed a little (0.5)
+- Make tech use on pickup

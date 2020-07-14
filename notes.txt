@@ -4,6 +4,11 @@
   - light: crew, crew equipment (uses power)
   - Need to change npctypes.gdb to give the right things in the right slots
 - Reduce stat points from crew equipment
+- Requirements have to be lowered
+
+- Need lower point costs for some items
+- More energy for swarm missiles
+- Mines should be heavy -- too strong
 
 - Can we make giant nebulas that have effects?
   - Check that purple electric field thing
@@ -26,3 +31,33 @@
 - Need to radically reduce effect of command
   - Too many slots
   - Almost always effective to pile on weapons and armor
+
+- Current items:
+  armorplating medium 1.5vit armor 20/10
+  armor heavy 1.5vit armor 30/15
+  batteries medium 1.5int power 10/10 regen 0.25/0.05 powerload 7/7
+  batteriesActiveBoost light 1.125int power+ 10/10 reuse 60
+  batteryCapacityBoost light 1.125int maxPower 5/5 powerLoad 3.5/3.5
+  batteryOther light ...
+  batteryRegenBoost light 1.125int powerRegen 1.0/0.2 powerLoad 3.5/3.5
+  computerActive light 1.125spr reuse 60 power 5/1 
+  computerBoost light 1.125spr atk 7.5/7.5 def 3.75/3.75 pl 3.5/3.5
+  computers mediium 1.5spr atk 15/15 def 7.5/7.5 pl 7/7
+  crewEquipment medium lvl allstat 1/0.1 pl 3.5/3.5 (crazy strong!!!)
+  damageControl medium 1.5vit armorRegen 0/8 helthRegen 0/4 pl 7/7
+  decoy medium 1.5dex SkillDecoy
+  defenses medium 1.5dex def 12.5/12.5 pl 7/7
+  defenseActive M 1.5dex SkillStealth
+  eccm M 1.5spr atk 30/30 pl 7/7
+  engines H 1.5dex thrust 10/10 def 5/5 why no power?
+  enginesActiveboost M 1.5dex skillEngineActiveUse how can this compete at M level?
+  escapePod L 1.125 health 6/3 def 10/10
+  jammerActiveBoost L 1.125int skillJammerActiveBoost1
+  jamemrOther L 1.5spr def 6.25/6.25 pl 3.5/3.5
+  jammer M 1.5spr def 12.5/12.5 pl 7/7
+  missileDefense M 1.5dex pl 1.75/1.75 skillMissileDefense
+
+- Race manipulation needs to be cheap enough to do it for many planets
+   
+
+
