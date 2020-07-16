@@ -9,3 +9,6 @@ ver 0.001
 - Performing a Drox guild quest should now be an automatic legend win.
 - Increase turn speed a little (0.5)
 - Make tech use on pickup
+
+ver 0.002
+- Reduce item stat requirements by 1/3
