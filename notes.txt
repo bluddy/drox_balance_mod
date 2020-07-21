@@ -4,9 +4,18 @@
   - light: crew, crew equipment (uses power)
   - Need to change npctypes.gdb to give the right things in the right slots
 - Reduce stat points from crew equipment
-- Requirements have to be lowered
+- Requirements have to be lowered (done?)
+- Add copies of items that only use levels, but are weaker. This makes it so you have options and can invest points in whatever you want.
+- Problem is, no matter what, you feel ineffective.
+  - Only way to make that go away is by stacking multiple weapons.
+  - But that requires a lot of upgrades in command (need power plant, thrust, 2 heavy weapons)
+- ** Regen on shields is far too slow to mean anything. Might as well get just armor.
+  - Only advantage is from ancient recharge stations.
+- In most space sims, shields are your only defense, and armor is when you start taking real damage.
+  - Armor costs no power. Huge advantage.
+  - Might as well recharge it with healing (not available in most space games).
+  - Make healing items not repair armor
 
-- Need lower point costs for some items
 - More energy for swarm missiles
 - Mines should be heavy -- too strong
 
