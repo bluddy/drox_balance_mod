@@ -5,7 +5,11 @@
   - Need to change npctypes.gdb to give the right things in the right slots
 - Reduce stat points from crew equipment
 - Requirements have to be lowered (done?)
+- For starters, add more available slots at lower levels.
 - Add copies of items that only use levels, but are weaker. This makes it so you have options and can invest points in whatever you want.
+  - Only need it for must-have items:
+    weak power plants
+    weak weapons
 - Problem is, no matter what, you feel ineffective.
   - Only way to make that go away is by stacking multiple weapons.
   - But that requires a lot of upgrades in command (need power plant, thrust, 2 heavy weapons)
@@ -16,6 +20,7 @@
   - Might as well recharge it with healing (not available in most space games).
   - Make healing items not repair armor
 
+- Make certain drox quests give fewer legend points
 - More energy for swarm missiles
 - Mines should be heavy -- too strong
 
@@ -67,6 +72,7 @@
   missileDefense M 1.5dex pl 1.75/1.75 skillMissileDefense
 
 - Race manipulation needs to be cheap enough to do it for many planets
-   
+- Skill tree per race   
 
-
+- Nebula
+  - Cannot take away energy: not fair. doesn't apply to monsters
